@@ -1,2 +1,2 @@
-# caner-hoca-dev-1
+# caner-hoca-odev-1
 25 soruluk ödev
